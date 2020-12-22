@@ -1,0 +1,59 @@
+README
+
+-------FILE CONTENTS----------------------------------------------------------------------------------------------------
+
+addressCalculationSorting.py:
+    - Counting sort
+    - Bucket sort
+    - Radix sort
+
+comparisonBasedSorting.py:
+    - Merge sort
+    - Lower bound optimal comparison
+    - Binary heaps / heap sort
+
+deterministic_selection.py:
+    - Deterministic Selection Algorithm
+
+dijkstrasAlgorithm.py:
+    - Dijkstra's Shortest Path Algorithm
+    - Adjusted code from Divyanshu Mehta (Geeksforgeeks)
+
+divideAndConquer.py:
+    - Integer multiplication
+
+greedyAlgorithms.py:
+    - Fractional knapsack
+    - Huffman coding
+    - Merge comparisons
+
+knapsack0-1.py:
+    - 0/1 Knapsack Problem
+
+kruskals_algorithm.py:
+    - Kruskal's Algorithm
+    - Adjusted code from Neelam Yadav (GeeksforGeeks)
+
+optimal_binary_tree.py:
+    - Optimal Binary Tree
+
+optimal_matrix_chain.py:
+    - Optimal matrix chain multiplication
+
+optimalWeightedInterval.py:
+    - Optimal weighted interval scheduling code from lecture (2D array)
+
+prim_jarnik_algorithm.py:
+    - Prim Jarnik Algorithm
+    - Adjusted code from Divyanshu Mehta (Geeksforgeeks)
+
+quickSelect.py:
+    - Quick Select Algorithm
+
+topologicalSort.py:
+    - Topological sort for graphs
+
+truck_loading.py:
+    - Truck loading problem / subset sum
+
+
