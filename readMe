@@ -41,7 +41,7 @@ optimal_matrix_chain.py:
     - Optimal matrix chain multiplication
 
 optimalWeightedInterval.py:
-    - Optimal weighted interval scheduling code from lecture (2D array)
+    - Optimal weighted interval scheduling code (2D array)
 
 prim_jarnik_algorithm.py:
     - Prim Jarnik Algorithm
